@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J-Chondo
-- 👀 I’m interested in web dev
+- 👀 I’m a chemical Engineer interested in web dev
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on web dev, web app projects
 - 📫 How to reach me @chondojoel@gmail.com
